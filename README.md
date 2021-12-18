@@ -116,3 +116,10 @@ For robotics:
 Conclusion:
 
 - When comparing the mean sentiment scores across the subreddits, DataScience appears to have the highest compound score on average, meaning it carries the highest amount of positive sentiment, followed by gamedev and MachineLearning, while there was not as much enthusiasm in robotics.  As a whole, none of the subreddits experienced any real negativity, with most submissions primarily carrying high neutral sentiment scores meaning that these subreddits are likely more informative and a place for users to help one another with programming related issues and questions.  Topic models appear to confirm this as they seem to all depict either instructions or what would appear to be news related to that field.  This is even further confirmed when observing the most frequent words, bi-grams and tri-grams, as they are all either related to the field of study or are words, bi-grams or tri-grams that would either indicate a request for help or instructions in response to a request for help on a particular issue, along with common programming commands that might be referred to. Examples that are observed across all subreddits would be data, question, education,  _getitem, get, job, help, need, would, want, know, [would, want], [would, want, know], [try, make], [want, make, sure].  The other high frequency words and n-grams are related to the subject of that particular subreddit. For example, the subreddit datascience contained bi-grams such as [data, science], [data, scientist], [data, analyst], [Data, science].
+
+- Queries performed on Subreddits are found in task 7 of [final-project-p2.ipynb].
+
+Code:
+
+- [final-project-p1.ipynb](https://github.com/JasonSpaw/DMIR-Final-Project---Computational-Linguistics-over-Reddit-Data/blob/main/final-project-p1.ipynb)
+- [final-project-p2.ipynb](https://github.com/JasonSpaw/DMIR-Final-Project---Computational-Linguistics-over-Reddit-Data/blob/main/final-project-p2.ipynb)
